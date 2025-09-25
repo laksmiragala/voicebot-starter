@@ -1,0 +1,15 @@
+{
+  "name": "voicebot-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  }
+}
