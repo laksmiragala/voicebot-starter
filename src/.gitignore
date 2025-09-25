@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Vite / build
+dist/
+.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# OneDrive / personal folders
+*.log
+AppData/
+Downloads/
+Music/
+Pictures/
+Videos/
